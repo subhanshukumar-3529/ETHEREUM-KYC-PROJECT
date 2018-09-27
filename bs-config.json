@@ -1,0 +1,7 @@
+{
+"files": ["./javascripts/*.js","./stylesheets/app.css", "./CustomerKYC.json" ],
+  "server":{ 
+    "baseDir": ["./app/", "./build/contracts"]
+  }
+}
+
